@@ -1,1 +1,1 @@
-console.log("bonnie")
+console.log("smart bonnie")
